@@ -36,9 +36,3 @@ github flow를 따라서 [자세히보기](https://hudi.blog/git-branch-strategy
 |qa|dev 브랜치 병합용|
 |dev|각 토픽 브랜치 병합용|
 |topic-[개발기능명]|기능 개발을 위한 개인 브랜치|
-
-## 기타 해보고 싶은 것
-- 애자일
-  - 스프린트
-  - 페어프로그래밍
-- 함수형 프로그래밍

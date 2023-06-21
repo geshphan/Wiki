@@ -6,7 +6,7 @@
 
 ## 개발 관련
 
-### 📌 commit / pull request 컨벤션 지정하고 작업 진행했으면 함<br/>
+#### 📌 commit / pull request 컨벤션 지정하고 작업 진행했으면 함<br/>
 
 예시)
 
@@ -25,7 +25,7 @@
 |!HOTFIX|급하게 치명적인 버그를 고침|
 |etc|기타|
 
-### 📌 branch Convention<br/>
+#### 📌 branch Convention<br/>
 
 github flow를 따라서 [자세히보기](https://hudi.blog/git-branch-strategy/)<br/>
 예시)
@@ -37,3 +37,8 @@ github flow를 따라서 [자세히보기](https://hudi.blog/git-branch-strategy
 |dev|각 토픽 브랜치 병합용|
 |topic-[개발기능명]|기능 개발을 위한 개인 브랜치|
 
+## 기타 해보고 싶은 것
+- 애자일
+  - 스프린트
+  - 페어프로그래밍
+  - 함수형 프로그래밍

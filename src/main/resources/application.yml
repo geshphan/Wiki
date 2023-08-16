@@ -1,0 +1,8 @@
+server:
+  port: 443
+  ssl:
+    enabled: true
+    key-store: C:\Users\user\IdeaProjects\geshphan\keystore.p12
+    key-store-password: geshphan
+    key-store-type: PKCS12
+    key-alias: geshphan-ssl
